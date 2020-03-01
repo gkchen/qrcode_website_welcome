@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[pages=some,scale=1,angle=0,opacity=0.7]{background}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage[space]{grffile}
+
+\newcommand\BackImage[2][scale=1]{%
+\BgThispage
+\backgroundsetup{
+  contents={\includegraphics[#1]{#2}}
+  }
+}
+
+\linespread{1.5}
+
+\begin{document}
+
+\vspace*{\fill}
+
+\centering
+
+\section*{{\Huge Welcome to\\Sample Location Office}}
+
+\vspace*{1cm}
+
+{\Large WiFi network: admin}
+
+\vspace*{1cm}
+
+{\Large WiFi password: password}
+
+\vspace*{1cm}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.5\textwidth]{/Users/garychen/Documents/Code/qrcode/Sample Location Office/admin.pdf}
+\end{figure}
+
+\vspace*{\fill}
+
+\end{document}

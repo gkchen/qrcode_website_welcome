@@ -1,0 +1,14 @@
+certifi==2019.11.28
+colorama==0.4.3
+cssselect2==0.2.1
+Jinja2==2.11.1
+lxml==4.5.0
+MarkupSafe==1.1.1
+olefile==0.46
+Pillow==7.0.0
+qrcode==6.1
+reportlab==3.5.32
+six==1.14.0
+svglib==0.9.3
+tinycss2==1.0.2
+webencodings==0.5.1

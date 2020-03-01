@@ -1,0 +1,8 @@
+{
+    "sample_location": {
+        "location": "Sample Location Office",
+        "wifi_name": "admin",
+        "wifi_password": "password",
+        "protocol": "WPA"
+    }
+}
