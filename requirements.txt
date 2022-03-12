@@ -5,7 +5,7 @@ Jinja2==2.11.3
 lxml==4.6.3
 MarkupSafe==1.1.1
 olefile==0.46
-Pillow==8.2.0
+Pillow==9.0.1
 qrcode==6.1
 reportlab==3.5.32
 six==1.14.0
